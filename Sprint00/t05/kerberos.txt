@@ -1,0 +1,3 @@
+klist
+kinit login@mail.com
+kdestroy -A

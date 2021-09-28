@@ -1,0 +1,3 @@
+git add t01/push_me.txt
+git commit -m "Task01 complited"
+git push
