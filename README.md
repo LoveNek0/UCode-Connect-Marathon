@@ -1,4 +1,4 @@
-<h1>UCode-Marathon (08.09 - 29.09) 2021.</h1>
+<h1>UCode-Marathon (08.09 - 29.09) 2021</h1>
 
 <p align="center">
     <a href="https://lms.ucode.world/users/hfomin" target="_blank">
